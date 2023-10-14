@@ -1,0 +1,14 @@
+GAN 
+GENERATIVE ADVERSIAL NEURAL NETWORK used to generate new images 
+
+1) Setting up the environment 
+2) Building a Datapipeline 
+3) Creating a generator and dicriminator 
+4) Building a custom Training Loop
+5) generating new images
+
+Steps involved are :
+1) Load the data from Tensor flow data set 
+2) Build the Generator Model (FOOC the descriminator) 
+3) Build discriminator Model(picks up fake) in the form of binary 0 and 1 0 reperesents true and 1 represents fake
+4) Training the model 
